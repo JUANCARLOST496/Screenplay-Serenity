@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Abrir una pagina" skipped="0" tests="1" time="52.19" timestamp="2024-04-24 01:53:48"><testcase name="Abrir browser"><failure message="&#13;&#10;Expected: a string containing &quot;test&quot;&#13;&#10;     but: was &quot;DEMOQA&quot;" type="java.lang.AssertionError">&#13;
+Expected: a string containing "test"&#13;
+     but: was "DEMOQA"</failure><system-err>&#13;
+Expected: a string containing "test"&#13;
+     but: was "DEMOQA"&#13;
+co.com.screenplay.project.stepdefinitions.hook.hook.abrirSitioWeb(hook.java:32)&#13;
+✽."Juan" abre el sitio web de pruebas(file:///C:/april/serenity/src/test/resources/features/openweb.feature:9)&#13;
+</system-err></testcase></testsuite>
